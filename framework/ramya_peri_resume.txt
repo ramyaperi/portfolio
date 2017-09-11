@@ -5,63 +5,44 @@ https://www.linkedin.com/in/ramya-peri-8737086
 IT analyst | Software Engineer - Seeking new Opportunities - Holds valid Swiss Work Autorization
 
 
-SUMMARY OF QUALIFICATIONS
+Analytical Programmer possesses strong knowledge of Java programming. Quickly masters new software and hardware technologies. Results-oriented software engineering professional with more than 7+ years of experience in the field. Analytical and detail-oriented.  
 
-Ramya is recognised as cohesive Team Player with strong analytical, problem solving, planning, organising, communication & interpersonal skills
- Having worked on projects at European locations with very good feedback from client on both technical aspect as well as cultural integration with team, was successful at building good working relationships with a wide variety of people, within customer organisation.
-Has displayed strong coordination & Issue Resolution ability between various Technical Infrastructure and Application Teams for timely Project Implementation.
-Has also displayed Solution driven Leadership abilities in activity planning and organising employee engagement activities in co-ordination with Human resources
+EXPERIENCE
+Infosys Ltd - Senior Software engineer              		   	  Jul 2012 - Jan 2015
+ Proposed and delivered a tool that can extract data in 4 seconds directly from the database as opposed to the existing 80 seconds from locally created backups.
+Developed a highly customisable Java Swings GUI application.
+Infosys Technologies Ltd -Software Engineer                                                         May 2008 - Jun 2012
+Worked on multiple projects starting with reverse engineering of Fortran code and implementing the improved solution in Java.
+Developed new features and customised existing PLM packages like e-matrix developed in Java.
 
-PROFESSIONAL EXPERIENCE
+PROJECTS
+Portfolio website
+Developed a personal portfolio page using HTML, CSS, and the Bootstrap framework. The page is fully responsive and works on mobile, tablet, and desktop browsers. 
+https://ramyaperi.github.io/portfolio/framework/portfolio.html 
 
-Planned break 								Jan 2015 - now	Due to relocation and maternity 	
+Engineering Calculation tool – LIFE development – Phase 2           
+Proposed and delivered a tool that can extract data in 4 seconds directly from the database as opposed to the existing 80 seconds from locally created backups. 
+Worked directly with client and his team, only one person fully responsible for the project.
+Extracted data from a client specific database, MSC MVision Material Database.
 
-Pursued animation as a hobby 
-Python for Everybody Specialization from coursera [https://www.coursera.org/account/accomplishments/specialization/TPGG8Y29MMYN]
-			
-Engineering Calculation tool – LIFE development – Phase 2                     Mar 2013 – Jan 2015 As Information Technology Business Analyst at Infosys
-		 Learning and implementing the data extraction from a client specific database, MSC MVision Material Database. MDB is client specific database, without jdbc drives like oracle or sql. Client had an environment of database backup in file system on a server to increase the performance as they performance could not be achieved. Proposed and delivered a tool that can extract data in 4s directly from database, compared to 80s from the local back up that was created to improve performance. This project is very important for the client since they were not able to make any progress here over the years and were struggling with the database
-						  Engineering Calculation tool – LIFE development – Phase 1        Mar 2012 – Mar 2013 As Information Technology Business Analyst at Infosys
- Development of java swings based desktop application, with all the properties for each of the module being extendable by extending the property files classified and separated for each module. Application to run external exe files and extract the results to the application 
+Engineering Calculation tool – LIFE development – Phase 1           
+Developed java swings based desktop application, with all the GUI settings being extendable for each module from a property file.
+Application to run engineering calculations and extract the results to the application.
+Single person project working directly with client team.
 
-Product & Plant Life cycles management Implementation - Agile EDM     Sep 2011 – Feb 2012
-As System Analyst at Infosys
+Bill of Material management – PLM Package Enovia e-matrix
+Development, Enhancement of multiple projects on Product Life cycle Management.
+With only, on the job training of e-matrix package, due to stringent deadlines.
+Development of new features as well as customisation of existing PLM package e-matrix developed in java.
+ Was recognised and awarded for being a quick learner.
 
-Installation, Integration and customisation of PLM package for CRP of a major client. This is equally challenging as PLM packages in general have lots of dependencies on platform and are very particular about the versions of the software packages involved. Have pro-actively taken company level work packages to extend the knowledge to different domains.
+EDUCATION and CERTIFICATIONS                                                                                          
+Udacity - Nano degree Field Of Study Full Stack web developer -2017        
+Andhra University  - Bachelor of Technology (B Tech) Field Of Study Information Technology  - 2004 - 2008	
+ SUN certified java programmer
 
+SKILLS
+  •JAVA    •Python   • HTML •CSS  •Git,GitHub  • SQL   • JavaScript  •Linux  • C++    • C  •Bootstrap
 
-
-Bill of Material management – PLM Package Enovia e-matrix                Sep 2010 – Aug 2011
-As System Analyst at Infosys
-
-
-Development, Enhancement of multiple projects on Product Life cycle
-Management, operated from the Off-shore development center at Mysore,
-including regular periodic meeting with Client Representative. With only the
-job training of e-matrix package, due to stringent deadlines.
-Development of new features as well as customization of existing PLM
-packages like e-matrix developed in java. Developed functionality that allowed definition and identification of various manufacturing locations for routing parts effectively and productively.
-
-
-
-Engineering Analysis & simulation tool – RSG development                    Sep 2008 – Aug 2010 
-As System Analyst at Infosys
-
-Reverse engineering of legacy FORTARN code and implementing the same with enhanced features with JAVA using Eclipse RCP framework. Develop a plugin-in by understanding plugin architecture. Team
-
-
-Education
-Bachelor of Technology (B Tech), Information Technology, Andhra University, Vishakhpatnam, India. 2004 - 2008
-
-Certifications
-SUN certified java programmer
-Python for Everybody Specialization 
-Capstone: Retrieving, Processing, and Visualizing Data with Python 
-Using Databases with Python
-Programming for Everybody (Getting Started with Python)
- Python Data Structures 
-Using Python to Access Web Data
-Honors 
-Award for Excellence, Infosys Ltd. , Part of Infosys Award for Excellence winning team for Alstom Engineering Tools Team, Jan 2014
-
- Infosys Spot award, Infosys Ltd. , Infosys Spot award (Rookie) winner for taking up critical project activity with learning the technology on the job , May 20
+HONORS & AWARDS
+Award for Excellence-Part of Infosys Award for Excellence winning team for Alstom Engineering Tools Team - Jan 2014            Infosys Spot award-Infosys Spot award (Rookie) winner for taking up critical project activity with learning the technology on the job -May 2011
